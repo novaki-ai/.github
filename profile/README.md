@@ -48,7 +48,7 @@ but at the top it is effectively a tie.
 
 ## Repositories
 
-| | |
+| Repository | What's inside |
 |---|---|
 | [**novaki-tests**](https://github.com/novaki-ai/novaki-tests) | Prompts, model outputs and scores for every test. `score.py` recomputes every number from the raw results. |
 
