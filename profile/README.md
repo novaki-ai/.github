@@ -50,7 +50,7 @@ but at the top it is effectively a tie.
 
 | Repository | What's inside |
 |---|---|
-| [**novaki-tests**](https://github.com/novaki-ai/novaki-tests) | Prompts, model outputs and scores for every test. `score.py` recomputes every number from the raw results. |
+| [**novaki-tests**](https://github.com/novaki-ai/novaki-tests) | Prompts, model outputs and scores for every test. `score.py` recomputes every number from the raw results. Free to reuse under CC BY 4.0. |
 
 Want a model tested? Tell us under a video on [YouTube](https://www.youtube.com/@Novaki_ai) or on [X](https://x.com/Novaki_ai).
 
